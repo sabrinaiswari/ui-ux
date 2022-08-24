@@ -1,1 +1,18 @@
 link github " https://github.com/sabrinaiswari/ui-ux " 
+
+yang dipelajari dari materi yaitu cara setting up dan push 
+- git add . (untuk menambah semua file)
+- git commit -m "iisialisasi"
+- git push origin
+
+
+branch dan pull up
+- git branch --list
+- git branch (nama branch)
+- git branch -d (nama branch) *untuk menghapus branch
+- git branch -d origin (nama branch) *menghapus branch di github
+
+- git checkout (nama branch) *untuk masuk kebranch yg diinginkan
+
+version control branch
+- git merge (nama branch) *untuk menyamakan branch
